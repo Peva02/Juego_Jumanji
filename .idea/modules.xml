@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jumanji.iml" filepath="$PROJECT_DIR$/.idea/modules/jumanji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/jumanji.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/jumanji.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/jumanji.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/jumanji.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/jumanji.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/jumanji.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/jumanji.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/jumanji.html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/jumanji.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/jumanji.ios.iml" />
+    </modules>
+  </component>
+</project>

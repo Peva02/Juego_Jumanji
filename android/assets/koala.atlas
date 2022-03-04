@@ -1,0 +1,83 @@
+
+koala.png
+size: 1288, 1140
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+die_1
+  rotate: false
+  xy: 644, 882
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+die_2
+  rotate: false
+  xy: 644, 108
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+BG_Jungle
+  rotate: false
+  xy: 2, 2
+  size: 640, 1136
+  orig: 640, 1136
+  offset: 0, 0
+  index: -1
+barril
+  rotate: false
+  xy: 1158, 620
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eucalipto
+  rotate: false
+  xy: 644, 42
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+game_over_img
+  rotate: false
+  xy: 644, 624
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+koala_1
+  rotate: false
+  xy: 1158, 1010
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+koala_2
+  rotate: false
+  xy: 1158, 880
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+koala_3
+  rotate: false
+  xy: 1158, 750
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+koala_4
+  rotate: false
+  xy: 1158, 490
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+tap_play_img
+  rotate: false
+  xy: 644, 366
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1

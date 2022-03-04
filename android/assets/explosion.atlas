@@ -1,0 +1,139 @@
+
+explosion.png
+size: 1712, 132
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+exp1
+  rotate: false
+  xy: 1082, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp10
+  rotate: false
+  xy: 1442, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp11
+  rotate: false
+  xy: 722, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp12
+  rotate: false
+  xy: 92, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp13
+  rotate: false
+  xy: 1172, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp14
+  rotate: false
+  xy: 452, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp15
+  rotate: false
+  xy: 1622, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp16
+  rotate: false
+  xy: 902, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp17
+  rotate: false
+  xy: 272, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp18
+  rotate: false
+  xy: 1352, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp19
+  rotate: false
+  xy: 632, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp2
+  rotate: false
+  xy: 362, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp3
+  rotate: false
+  xy: 1532, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp4
+  rotate: false
+  xy: 812, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp5
+  rotate: false
+  xy: 182, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp6
+  rotate: false
+  xy: 1262, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp7
+  rotate: false
+  xy: 542, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp8
+  rotate: false
+  xy: 2, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1
+exp9
+  rotate: false
+  xy: 992, 2
+  size: 88, 128
+  orig: 88, 128
+  offset: 0, 0
+  index: -1

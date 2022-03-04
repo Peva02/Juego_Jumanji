@@ -1,0 +1,153 @@
+
+aguila.png
+size: 1124, 278
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+0
+  rotate: false
+  xy: 716, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 206, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 410, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 716, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 308, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 920, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 512, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 104, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 818, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 410, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 2, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 920, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 614, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 512, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 104, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 818, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 308, 2
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1022, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 614, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 206, 140
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
