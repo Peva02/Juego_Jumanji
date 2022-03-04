@@ -28,7 +28,7 @@ public class Util {
     public static final String MUSIC_BG = "bgGame.mp3";
     public static final String MUSIC_GAMEOVER = "gameOver.mp3";
     public static final String MUSIC_LOBBY = "lobby.mp3";
-    public static final String SOUND_IMPACTO = "impacto.mp3";
+    public static final String SOUND_IMPACTO = "explosion.mp3";
 
 
     //Identificadores de los cuerpos
