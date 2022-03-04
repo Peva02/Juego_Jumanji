@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jumanji.iml" filepath="$PROJECT_DIR$/.idea/modules/jumanji.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/jumanji.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/jumanji.android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/jumanji.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/jumanji.core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/jumanji.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/jumanji.desktop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/jumanji.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/jumanji.html.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/jumanji.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/jumanji.ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Juego_Jumanji.iml" filepath="$PROJECT_DIR$/.idea/modules/Juego_Jumanji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Juego_Jumanji.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Juego_Jumanji.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Juego_Jumanji.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Juego_Jumanji.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Juego_Jumanji.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Juego_Jumanji.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/Juego_Jumanji.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/Juego_Jumanji.html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/Juego_Jumanji.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/Juego_Jumanji.ios.iml" />
     </modules>
   </component>
 </project>

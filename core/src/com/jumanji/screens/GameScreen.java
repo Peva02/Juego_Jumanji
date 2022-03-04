@@ -201,6 +201,7 @@ public class GameScreen extends BaseScreen implements ContactListener {
         } else if (areCollide(contact, KOALA_FIXTURE, FLOOR_FIXTURE)) {
             this.koala.setCanJump(true);
         } else if (areCollide(contact, KOALA_FIXTURE, BARREL_FIXTURE)) {
+            //Cambio las fisicas para que si el koala se muere con un pajaro, no caiga al suelo
             this.world =new World(new Vector2(0f, 0f), true);
             this.musicbg.stop();
             this.explosionSound.play();
