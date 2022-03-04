@@ -30,7 +30,6 @@ public class Util {
     public static final String MUSIC_LOBBY = "lobby.mp3";
     public static final String SOUND_IMPACTO = "explosion.mp3";
 
-
     //Identificadores de los cuerpos
     public static final String KOALA_FIXTURE = "KOALA";
     public static final String BARREL_FIXTURE = "BARREL";
